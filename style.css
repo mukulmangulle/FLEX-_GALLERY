@@ -1,0 +1,70 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 20px;
+    justify-content: center;
+    background-color: black;
+}
+
+.box1 {
+    background-image: url("https://source.unsplash.com/random/?plant");
+    background-size: cover;
+    background-position: center;
+}
+
+.box2 {
+    background-image: url("https://source.unsplash.com/random/?bonsai");
+    background-size: cover;
+    background-position: center;
+}
+
+.box3 {
+    background-image: url("https://source.unsplash.com/random/?book");
+    background-size: cover;
+    background-position: center;
+}
+
+.box4 {
+    background-image: url("https://source.unsplash.com/random/?home");
+    background-size: cover;
+    background-position: center;
+}
+
+.box5 {
+    background-image: url("https://source.unsplash.com/random/?dog");
+    background-size: cover;
+    background-position: center;
+}
+
+.box6 {
+    background-image: url("https://source.unsplash.com/random/?farmar");
+    background-size: cover;
+    background-position: center;
+}
+
+.box7 {
+    background-image: url("https://source.unsplash.com/random/?school");
+    background-size: cover;
+    background-position: center;
+}
+
+.box8 {
+    background-image: url("https://source.unsplash.com/random/?mobile");
+    background-size: cover;
+    background-position: center;
+}
+
+.box9 {
+    background-image: url("https://source.unsplash.com/random/?nature");
+    background-size: cover;
+    background-position: center;
+}
